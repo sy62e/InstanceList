@@ -18,6 +18,11 @@
       "verified": true
     },
     {
+      "name": "12cord",
+      "url": "https://cord.area12.lol",
+      "verified": true
+    },
+    {
       "name": "Termcord",
       "url": "https://termcord.linux-user.fyi"
     },
@@ -44,10 +49,6 @@
     {
       "name": "m5rcel's Meowcord Instance",
       "url": "https://meowcord.m5rcel.com"
-    },
-    {
-      "name": "12cord",
-      "url": "https://cord.area12.lol"
     },
     {
       "name": "Tabaque",
