@@ -1,0 +1,61 @@
+{
+  "instances": [
+    {
+      "name": "Catcord",
+      "url": "https://catcord.dev",
+      "image": "icons/catcord.png",
+      "verified": true
+    },
+    {
+      "name": "Fleep",
+      "url": "https://fleep.space",
+      "image": "icons/fleep.png",
+      "verified": true
+    },
+    {
+      "name": "ORCBin",
+      "url": "https://orcbin.com",
+      "verified": true
+    },
+    {
+      "name": "Termcord",
+      "url": "https://termcord.linux-user.fyi"
+    },
+    {
+      "name": "Gacord",
+      "url": "https://gazeee.xyz"
+    },
+    {
+      "name": "Yuricord",
+      "url": "https://cord.yuri.llc"
+    },
+    {
+      "name": "NandroChat",
+      "url": "https://chat.nandroserver.duckdns.org"
+    },
+    {
+      "name": "Hola Quetal",
+      "url": "https://dc.polo.beer"
+    },
+    {
+      "name": "Buncord",
+      "url": "https://bun.social"
+    },
+    {
+      "name": "m5rcel's Meowcord Instance",
+      "url": "https://meowcord.m5rcel.com"
+    },
+    {
+      "name": "12cord",
+      "url": "https://cord.area12.lol"
+    },
+    {
+      "name": "Tabaque",
+      "url": "https://tabaque.lol"
+    },
+    {
+      "name": "Voidcord",
+      "url": "https://voidcord.lab-xp.ovh"
+    }
+  ]
+}
