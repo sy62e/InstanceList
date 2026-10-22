@@ -13,30 +13,13 @@
       "verified": true
     },
     {
-      "name": "ORCBin",
-      "url": "https://orcbin.com",
-      "verified": true
-    },
-    {
       "name": "12cord",
       "url": "https://cord.area12.lol",
       "verified": true
     },
     {
-      "name": "Termcord",
-      "url": "https://termcord.linux-user.fyi"
-    },
-    {
-      "name": "Gacord",
-      "url": "https://gacord.com"
-    },
-    {
       "name": "Yuricord",
       "url": "https://cord.yuri.llc"
-    },
-    {
-      "name": "NandroChat",
-      "url": "https://chat.nandroserver.duckdns.org"
     },
     {
       "name": "Hola Quetal",
@@ -50,9 +33,5 @@
       "name": "Voidcord",
       "url": "https://voidcord.lab-xp.ovh"
     },
-    {
-      "name": "idkcord",
-      "url": "https://ang.taild5450d.ts.net"
-    }
   ]
 }
