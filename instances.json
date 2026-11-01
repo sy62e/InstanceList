@@ -1,12 +1,6 @@
 {
   "instances": [
     {
-      "name": "Catcord",
-      "url": "https://catcord.dev",
-      "image": "icons/catcord.png",
-      "verified": true
-    },
-    {
       "name": "Fleep",
       "url": "https://fleep.space",
       "image": "icons/fleep.png",
