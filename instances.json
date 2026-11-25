@@ -1,12 +1,6 @@
 {
   "instances": [
     {
-      "name": "Fleep",
-      "url": "https://fleep.space",
-      "image": "icons/fleep.png",
-      "verified": true
-    },
-    {
       "name": "12cord",
       "url": "https://cord.area12.lol",
       "verified": true
